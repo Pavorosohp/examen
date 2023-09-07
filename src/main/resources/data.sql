@@ -1,0 +1,2 @@
+INSERT INTO persona (nombre,apellido_paterno,apellido_materno,rfc,curp,sexo,nacionalidad) VALUES ('User1', 'Paterno1','Materno1','XIOP765423','XEPH765423HURSVX04','M','NACIONALIDAD');
+INSERT INTO persona (nombre,apellido_paterno,apellido_materno,rfc,curp,sexo,nacionalidad) VALUES ('User2', 'Paterno2','Materno2','ljfalsfjas','XLDFKJSFLEOIREOIRE','H','NACIONALIDAD');
